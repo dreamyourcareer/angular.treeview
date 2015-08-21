@@ -11,7 +11,7 @@ Copy the script and css into your project and add a script and link tag to your 
 
 ```html
 <script type="text/javascript" src="/angular.treeview.js"></script>
-<link rel="stylesheet" type="text/css" href="css/angular.treeview.css">
+<link rel="stylesheet" type="text/css" href="css/angular.treeview.css" /> 
 ```
 
 Add a dependency to your application module.
